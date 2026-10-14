@@ -8,10 +8,10 @@
 # Other details :
 Accuracy : 95.56% (You can check it by running 'test.py' inside 'Others' directory.)
 
+parameters : 13,002
+
 Epochs : 10
 
 learning rate : 0.001
-
-parameters : 13,002
 
 Dataset was downloaded from kaggle.
