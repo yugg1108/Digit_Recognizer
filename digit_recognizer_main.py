@@ -48,7 +48,7 @@ b3 = np.random.uniform(-0.1,0.1,(1,10))
 print("All variables successfully initialized. Training is starting...")
 
 # epochs :
-for epoch in range(20):
+for epoch in range(10):
     for i in range (data_np.shape[0]) :     # The pandas consider forst row as headers. so it will consider only 2 to 60000 (for excel) or 0 to 59998 (for indexing). so, we do this instead pf fixing the loop counts.
         x = data_np[i,1:785].reshape(1,784)
         op = np.zeros((10))
