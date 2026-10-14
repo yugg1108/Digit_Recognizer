@@ -8,7 +8,7 @@
 # Other details :
 Accuracy : 95.56% (You can check it by running 'test.py' inside 'Others' directory.)
 
-Epochs : 20
+Epochs : 10
 
 learning rate : 0.001
 
