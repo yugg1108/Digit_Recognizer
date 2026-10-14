@@ -1,2 +1,13 @@
-# Digit_Recognizer
-My very first Digit Recognizer with 13002 parameters. It gives 0 to 9 digit as output by taking a 28*28 pixel black and white image as input.
+## Execute :
+
+1. Go to draw.py , run it and save.
+2. Then go to run.py and run it.
+
+
+## Other details :
+Accuracy : 95.56% (You can check it by running 'test.py' inside 'Others' directory.)
+Epochs : 20
+learning rate : 0.001
+parameters : 13,002
+
+The training data is inside 'Others' directory.
